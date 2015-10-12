@@ -1,6 +1,6 @@
 {
   "name": "grunt-deployit",
-  "description": "Deploys your files easily.",
+  "description": "Deploy your files easily.",
   "version": "0.1.0",
   "homepage": "https://github.com/quintana-dev/grunt-deployit",
   "author": {

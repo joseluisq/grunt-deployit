@@ -1,6 +1,6 @@
-# grunt-deployit
+# grunt-deployit [![Build Status](https://travis-ci.org/quintana-dev/grunt-deployit.svg)](https://travis-ci.org/quintana-dev/grunt-deployit) [![Dependency Status](https://david-dm.org/quintana-dev/grunt-deployit.svg)](https://david-dm.org/quintana-dev/grunt-deployit)
 
-> Deploys your files easily.
+> Deploy your files easily.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
