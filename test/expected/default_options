@@ -1,0 +1,2 @@
+"server":{"host":"localhost","port":"22","username":"guest"}
+,"deploy":{"src":"./dist","dest":"/home/guest"}
