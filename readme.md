@@ -60,11 +60,11 @@ Default value: `guest`
 Server user name.
 
 #### options.password
-Type: `String`
+Type: `String` (optional)
 
 Server user password.
 
-**Note:** If password is not provided (by default), prompt will request your password.
+**Note:** If password is not provided (by default), prompt will request for your password.
 
 ### Files
 Deployment settings.
