@@ -108,7 +108,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 ## Release History
 Date | Version | Description
 --- | --- | ---
-2016-08-10 | v0.1.1 | Update all dependencies 🌴 and node verions.
+2016-08-10 | v1.0.0 | Update all dependencies 🌴, node verions and standardjs.
 2015-10-12 | v0.1.0 | Work in progress, not yet officially released.
 
 ## License
