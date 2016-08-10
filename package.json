@@ -1,26 +1,23 @@
 {
   "name": "grunt-deployit",
-  "description": "Deploy your files easily.",
-  "version": "0.1.0",
-  "homepage": "https://github.com/quintana-dev/grunt-deployit",
+  "description": "Deploy your files easily using FTP.",
+  "version": "0.1.1",
+  "homepage": "https://github.com/joseluisq/grunt-deployit",
   "author": {
     "name": "José Luis Quintana",
-    "email": "joseluisquintana20@gmail.com",
-    "url": "http://quintana.io"
+    "url": "http://git.io/joseluisq"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/quintana-dev/grunt-deployit.git"
+    "url": "git://github.com/joseluisq/grunt-deployit.git"
   },
   "bugs": {
-    "url": "https://github.com/quintana-dev/grunt-deployit/issues"
+    "url": "https://github.com/joseluisq/grunt-deployit/issues"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/quintana-dev/grunt-deployit/blob/master/license"
-    }
-  ],
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/joseluisq/grunt-deployit/blob/master/license"
+  }],
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -40,7 +37,8 @@
   "keywords": [
     "gruntplugin",
     "deploy",
-    "ssh2"
+    "ssh2",
+    "ftp"
   ],
   "dependencies": {
     "chalk": "^1.1.1",

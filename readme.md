@@ -1,6 +1,6 @@
-# grunt-deployit [![Build Status](https://travis-ci.org/quintana-dev/grunt-deployit.svg)](https://travis-ci.org/quintana-dev/grunt-deployit) [![Dependency Status](https://david-dm.org/quintana-dev/grunt-deployit.svg)](https://david-dm.org/quintana-dev/grunt-deployit)
+# grunt-deployit [![Build Status](https://travis-ci.org/joseluisq/grunt-deployit.svg)](https://travis-ci.org/joseluisq/grunt-deployit) [![Dependency Status](https://david-dm.org/joseluisq/grunt-deployit.svg)](https://david-dm.org/joseluisq/grunt-deployit) [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
-> Deploy your files easily.
+> Deploy your files easily using FTP.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
@@ -108,9 +108,10 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 ## Release History
 Date | Version | Description
 --- | --- | ---
+2016-08-10 | v0.1.1 | Update all dependencies 🌴 and node verions.
 2015-10-12 | v0.1.0 | Work in progress, not yet officially released.
 
 ## License
 MIT license
 
-© 2015 [José Luis Quintana](http://quintana.io)
+© 2016 [José Luis Quintana](http://git.io/joseluisq)
