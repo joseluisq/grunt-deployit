@@ -19,7 +19,7 @@
     "url": "https://github.com/joseluisq/grunt-deployit/blob/master/license"
   }],
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 4"
   },
   "scripts": {
     "test": "grunt test"
