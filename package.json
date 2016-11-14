@@ -1,7 +1,7 @@
 {
   "name": "grunt-deployit",
   "description": "Deploy your files easily using FTP.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/joseluisq/grunt-deployit",
   "author": {
     "name": "José Luis Quintana",
@@ -19,7 +19,7 @@
     "url": "https://github.com/joseluisq/grunt-deployit/blob/master/license"
   }],
   "engines": {
-    "node": ">= 4"
+    "node": ">=4"
   },
   "scripts": {
     "test": "grunt test"
